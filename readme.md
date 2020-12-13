@@ -1,0 +1,1 @@
+The weekend project based on the tutorial https://github.com/hackingthemarkets/stockscreener
